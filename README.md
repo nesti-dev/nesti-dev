@@ -14,6 +14,8 @@
 
 - 🌎 Native spanish 🇪🇸 | Fluent english 🇬🇧
 
+[You can found my CV here](curriculum-vitae-(en).pdf)
+
 📫 How to reach me: "nesti.s.dev@icloud.com"
 
 <!--
